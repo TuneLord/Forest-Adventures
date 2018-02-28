@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/MainMenu.unity
+    guid: 46c5fd763e263ac4a80509ac19fc0ea0
+  - enabled: 1
+    path: Assets/Levels/HeroSelection.unity
+    guid: fdba10c052d55ab4fbf3e97753544d1d
+  - enabled: 1
+    path: Assets/Levels/Level1.unity
+    guid: 612ae8d28c9fd8f45990afb8aea75160
+  - enabled: 1
+    path: Assets/Levels/Credits.unity
+    guid: 3edaed8a273d25f48a82bd4f82bde1b6
+  - enabled: 1
+    path: Assets/Levels/Options.unity
+    guid: e7466b151181280419b308a46000df6f
