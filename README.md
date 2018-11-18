@@ -1,4 +1,4 @@
-# ForestAdventures_Game
+# Forest Adventures Game
 Isometric game titled "Forest Adventures" in Unity Engine. The gameplay consists in collecting as many mushrooms as possible on the map. we have the option of choosing one of two characters (a troubadour - Minka, bard - Tuffik).
 
 <strong><h1>Features</h1></strong>
@@ -19,4 +19,4 @@ Isometric game titled "Forest Adventures" in Unity Engine. The gameplay consists
 <strong><h1>Install</h1></strong>
 You can clone the repository: 
 
-`git clone https://github.com/TuneLord/ForestAdventures_Game.git`
+`git clone https://github.com/TuneLord/Forest_Adventures_Game.git`
