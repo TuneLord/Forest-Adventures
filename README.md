@@ -21,4 +21,4 @@ You can clone the repository:
 
 `git clone https://github.com/TuneLord/Forest_Adventures_Game.git`
 
-Run **forestadventures.exe** in build folder.
+Run **ForestAdventuresBetaVersion1.2.exe** in Build folder.
