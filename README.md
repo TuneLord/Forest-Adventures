@@ -17,6 +17,8 @@ Isometric game titled "Forest Adventures" in Unity Engine. The gameplay consists
 * **textures** - all 3D models textures. 
 
 <strong><h1>Install</h1></strong>
-You can clone the repository: 
+You can clone the repository:
 
 `git clone https://github.com/TuneLord/Forest_Adventures_Game.git`
+
+Run **forestadventures.exe** in build folder.
